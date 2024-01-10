@@ -1,12 +1,15 @@
 
-<img align="center" style="margin-bottom:100px" width=65% src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+<div align="center" style="margin-bottom:100px">
+
+<img align="center" style="margin-bottom:100px" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 &nbsp;&nbsp;&nbsp;
+ 
+ </div>
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java with Spring-boot, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack low-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kevincharnock&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-kevincharnock.vercel.app/api/top-langs/?username=kevincharnock&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
